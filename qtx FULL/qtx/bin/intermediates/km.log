@@ -1,0 +1,7 @@
+﻿  Building 'qtx' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  entrypoint.cpp
+  Generating code
+  Not all modules are compiled with -Gy (function comdat), build without incremental LTCG.
+  Finished generating code
+  km.vcxproj -> C:\qtx FULL\qtx\bin\qtx.sys
+  Driver is 'Universal'.
